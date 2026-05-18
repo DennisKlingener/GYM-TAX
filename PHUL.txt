@@ -1,0 +1,637 @@
+PHUL
+
+NOTES:
+- Should be run for 12 weeks. 
+- If an exercise aggravates our back, stop/replace.
+- Focus on recovery and hydration 
+- Supplement this routine with stretches/foam rolling/injury recovery 
+
+STARTING 1RMs (epley formula) 
+BENCH 165 x 2, 1 RM ~176 
+SHOULDER PRESS 105 x 2 1 RM ~112
+
+REMAINING WORKOUTS: 48
+
+
+Test 452 
+=================================
+
+CONSTANTS
+LB=25 
+HB=45
+SM=55 
+	
+
+
+
+// DAY 1 - UPPER POWER 
+
+# BARBELL BENCH PRESS | 3-4 S | 3-5 R |:
+
+// WIDE GRIP
+- 11/17: 45 each @ 5, 5, 5. AGAIN. MORE SETS.
+- 11/24: 45 each @ 5, 5, 5, 5. EASY. BUMP. 
+- 12/3: 47.5 each @ 5, 5, 5, 5. DID IT LAST REP WAS HARD. AGAIN. 
+- 12/9: Miranda’s gym machine 145, 160, 175 @ 6, 5, 5, 4, 2 + drop. This machine sucks do the previous weigh. AGAIN. 
+- 12/22: 50 each @ 5, 5, 4, 4. AGAIN. 
+- 12/29: 50 each @ 5, 5, 5, 4. AGAIN. 
+- 1/5: 50 each @ 5, 5, 5, 5. BUMP. LETS GOOOOOO SON. 
+- 1/12: 52.5 each @ 5, 5, 3, 3. AGAIN. 
+- 1/26: 52.5 each @ 5, 5, 5, 3. AGAIN. 
+- 2/2: 52.5 each @ 5, 5, 5, 4. AGAIN. 
+- 2/9: 52.5 each @ 5, 5, 5, 5. AHHHHHHHHHHHHHHH LETS FUCKING GO BITCH. BUMP. 
+- 2/16: 55 each @ 5, 5, 4, 3. AGAIN.
+- 2/23: 55 each @ 5, 5, 5, 5. BUMP. I DID 5 LAST SET BUT THE REP WAS HARDDD STILL BUMP. 
+- 3/3: 57.5 @ 5, 4, 3, 3. AGAIN. 
+- 3/9: 57.5 @ 5, 4, 2, 3. AGAIN. IDK MAYBE I WAS TIRED DIDNT GET GREAT SLEEP AND WAS OUT LATE THINK ABOUT WORKING IN A DELOAD IF WE REGRESS. 
+- 3/16: 57.5 @ 5, 5, 4, 2. NICE KEEP IT UP. AGAIN. 
+- 3/24: 50 DB @ 10, 10, 10, 8. WAS AT MOMS THIS WEEK GO BACK TO NORMAL ALSO 50S WERE THE HEAVIEST. AGAIN. 
+- 3/30: 57.5 @ 5, 5, 4, 3. WIERD THE PLUS REP WAS THE LAST ONE NOCE THOUGH. AGAIN. 
+- 4/6: 50 each @ 10, 10, 10, 9. AT THE HOTEL. AGAIN. 
+- 4/3: 57.5 each @ 5, 3, 3, 2. FORST DAY BACK AFTER A WEEK OF SLACKING ALSO I FEEL BEHIND ON SLEEP BACK TO THE GRIND. AGAIN. 
+- 4/21: 57.5 each @ 5, 4, 3, 2. TOUGH. AGAIN. 
+- 4/27: 57.5 each @ 5, 4, 3, 3. LAST REP WAS BARELY THERE FUCKING ANNOYING. AGAIN. 
+- 5/4: 57.5 each @ 5, 5, 3, 2. FUCKER FUCK FUCK FUCK. IF IM PLATUEING WE NEED TO THINK ABOUT SWITCHING IT UP! AGAIN. 
+- 5/12: 57.5 each @ 5, 3, 3, 2. AGAIN. NEED TO LOCK IN AGAIN AND IF THAT DOESN’T WORK CHANGE THE ROUTINE. 
+
+
+INCLINE DB BENCH | 3-4 S | 6-10 R |:
+- 11/17: 45 each @ 10, 7, 5. AGAIN. MORE SETS.
+- 11/24: 45 each @ 10, 10, 7, 5. AGAIN.
+- 12/3: 45 each @ 10, 6, 6, 5. WITH DROP SETS. AGAIN.
+- 12/9: 45 each 9, 7, 7, 5. AGAIN. 
+- 12/22: 45 each @ 10, 5, 5, . PLUS DROP SETS. AGAIN. 
+- 12/29: 40 each @ 10, 10, 7, 7. AGAIN. DO 45 again. 
+- 1/5: 45 each @ 10, 8, 7, 6. AGAIN 
+- 1/12: 45 each @ 10, 9, 7, 6. AGAIN. 
+- 11/26: 45 each @ 10, 8, 6, 6. AGAIN. 
+- 2/2: 45 each @ 10, 8, 7, 6. AGAIN. 
+- 2/9: 45 each @ 10, 9, 6, 7. AGAIN. 
+- 2/16: 45 each @ 10, 10, 9, 7. AGAIN. 
+- 2/23: 45 each @ 10, 10, 8, 6. FUCKER. AGAIN. 
+- 3/3: 45 each @ 10, 10, 10, 7. AGAIN. 
+- 3/9: 45 each @ 10, 10, 8, 7. AGAIN. PRETTY SURE THIS IS FROM LACKING IN SLEEP CAUSE OF MATALIAS BDAY. 
+- 3/16: 45 each @ 10, 10, 10, 10. EASY SON. BUMP. 
+- 3/24: 50 each @ 6, 5, 5, 4. AT MOMS. AGAIN. 
+- 3/30: 50 each @ 10, 9, 5 5. AGAIN. 
+- 4/6: 50, 45 - each @ 6, 10, 8, 6. AGAIN. 
+- 4/13: 50 each @ 10, 5, 5, 5. AGAIN. BACK FROM A WEEK OFF. 
+- 4/21: 50 each @ 10, 6, 5, 4. AGAIN. 
+- 4/27: 50 each @ 10, 7, 6, 5. AGAIN. 
+- 5/4: 50 each @ 10, 10, 7, 7. AGAIN. 
+- 5/12: 50 each @ 10, 10, 10, 
+
+
+BENCH DB ROWS | 3-4 S | 3-5 R |:
+- 11/17: 40 each @ 5, 5, 5. EASY BUMP. MORE SETS.
+- 11/24: 55 each @ 5, 5, 5, 5. EASY. BUMP. 
+- 12/3 60 each @ 5, 5, 5, 5. AGAIN. USE THE BLACK BENCH. 
+- 12/9: chest supported row machine 130, 145, 160, 175, @ 5, 5, 5, 5. AGAIN. 
+- 12/22: 120, 130 @ 5, 5, 5, 3. AGAIN. 
+- 12/29: 130 @ 5, 5, 5, 4. AGAIN. 
+- 1/5: 130 @ 5, 5, 5 ish, 3. AGAIN. :/. 
+- 1/12: 130 @ 5, 5, 5, 4. AGAIN.  THINK ABOUT USING THE BARBELL. 
+- 1/26: 130 @ 5, 5, 4, 3. AGAIN. 
+- 2/2: 130: @ 5, 5, 5, 5. BUMP. THINK ABOUT USING THE BARBELL. 
+- 2/9: LB + 35 @ 8, 12, 12, 12. EASY IF NO PAIN BUMP. BUMP. 
+- 2/16: HB + 45 @ 5, 5, 5, 5. AGAIN. IF BACK HURTS DROP. 
+- 2/23: LB + 35 @ 10, 10, 10, BACK WAS A LITTLE TIGHT LOWERED THE WEIGH. 
+- 2/23: LB + 35 @ 10, 10, 10, 10. FELT OK MAYBE BUMP IF BACK IS OK. BUMP
+- 3/9: LB + 40 @ 10, 10, 10, 10. NEED TO PERFECT THE FORM BUMP IF BACK IS OK. BUMP. 
+- 3/16: LB + 40 @ 10, 10, 10, 10. FELT BETTER THIS TIME BUMP IF BACK IS OK. BUMP. 
+- 3/24: HB + 45 each @ 5, 5, 5, 5. FELT OK ACTUALLY. AGAIN. 
+- 3/30: HB + 45 each @ 5, 5, 5, 5. STILL FEELING GOOD. BUMP. 
+- 4/6: pull-ups @ 8, 6, 4. 
+- 4/13: HB + 50 each @ 5, 5, 5, 4. FEEL LIKE MY FORM WAS BAD. AGAIN. 
+- 4/21: HB + 50 @ 4, 5, 5, 5. WIDE STANCE FORM STILL MEH MAYBE LOWER WEIGHT.  AGAIN. 
+- 4/27: HB + 45 @ 5, 5, 5, 5. MAYBE A SMALL BUMP. BUMP. 
+- 5/4: HB + 47.5 @ 5, 5, 5, 10. BUMP. FEELS SO  MUCH BETTER WHEN ISING THE TIPS FROM THAT VIDEO. 
+- 5/12: HB + 50 each @ 5, 5, 5, 5. AGAIN. 
+
+
+LAT PULL DOWNS | 3-4 S | 6-10 R |:
+- 11/17: 82, 87.5, 92.5 @ 10,10,10. BUMP OR IF NOT ENOYGT WEIGHT, DO PULL UPS. MORE SETS.
+- 11/24: 100 @ 10, 10, 10, 7. AGAIN 
+- 12/3: 100 @ 10, 8, 8, WHOOPS. 
+- 12/9: Miranda’s house 100, 115, @ 10, 10, 10, 6. PREVIOUS WEIGHT. 
+- 12/22: 100 @ 9, 7, 6, WITH DROP SETS. AGAIN. 
+- 12/29: 100 @ 10, 9, 7, 6. WITH DROP SETS. AGAIN. 
+- 1/5: 100 @ 10, 10, 7, 6. AGAIN. 
+- 1/12: 100 @ 10, 10, borderline 8, 6. AGAIN. 
+- 1/26: 100 @ 10, 10, 8, 8. AGAIN. 
+- 2/2: 100 @ 10, 10, 10, 8. AGAIN. 
+- 2/9: 100 @ 10, 10, 10, 10. BUMP. 
+- 2/16: 110 @ 10, 7, 6, 7. AGAIN. 
+- 2/23: 110 @ 10, 10, 7, 6. AGAIN. 
+- 3/3: 110 @ 10, 10, 7, 7 barely. AGAIN. 
+- 3/9: 110 @ 10, 10, 8, 7. AGAIN. 
+- 3/16: 110 @ 10, 10, 9, 7. AGAIN.  
+- 3/24: 130, 150 -  @ 10, 10, 10, 10. MOMS MACHINE DO NORMAL AGAIN. AGAIN. 
+- 3/30: 110 @ 10, 10, 10, 5. REGRESSED A LITTLE. AGAIN.  
+- 4/6: 50 @ 12, 12, 12, 12. AT THE HOTEL DID DB ROWS THIS WAS EASY.  AGAIN.
+- 4/13: 110 @ 10, 10, 10, 6. AGAIN. 
+- 4/21: 110 @ 10, 10, 9, 6. AGAIN. 
+- 4/27: 110 @ 10, 10, 10, 9. AGAIN. 
+- 5/4: 110 @ 10, 10, 10, 8. AGAIN. 
+- 5/12: 110 @ 10, 10, 10, 10. LAST REPS WERE MEH. BUMP. 
+
+
+OVERHEAD PRESS | 2-3 S | 5-8 R |:
+- 11/17: HB + 20 each @ 6, 5. AGAIN. MORE SETS.
+- 11/24: HB + 20 each @ 8, 5, 5. AGAIN. 
+- 12/3 HB + 20 each @ 5, 5, 4. AGAIN. 
+- 12/9: DB 30 each, 35, 40 @ 8, 8, 5. Do the previous. AGAIN. 
+- 12/22 HB + 20 each @ 5, 4, 3. AGAIN.
+- 12/29: HB + 20 each @  6, 3, 3. AGAIN. 
+- 1/5 HB + 20 each @ 6, 4, 3. AGAIN. 
+- 1/12: HB + 20 each @ 5, 4, 3. DID THIS LAST. AGAIN. 
+- 1/26: HB + 20 each @ 5, 4, 3. AGAIN. 
+- 2/2: HB + 20 each @ 7, 4, 3. AGAIN. 
+- 2/9: HB + 20 each @ 8, 4, 3. AGAIN. DID BEFORE PULLDOWNS. 
+- 2/16: HB + 20 each @ 8, 5, 4. AGAIN. 
+- 2/23: HB + 20 each @ 8, 3, 3. FUCK. AGAIN. 
+- 3/3: HB + 20 each @ 8, 4, 4. AGAIN. 
+- 3/9: HB + 20 each @ 8, 5, 4. AGAIN. 
+- 3/16: HB + 20 each @ 8, 5, 5. AGAIN. 
+- 3/24: 35 DB each @ 8, 11, 10, 10. AGAIN. AT KOMS HOUSE. 
+- 3/30: 20 each @ 8, 4, 3. AGAIN. THIS IS MY WORST LIFT. MAYBE ADD DROP SETS. 
+- 4/6: 35 DB each @ 12, 10, 10, 8. AT HOTEL. 
+- 4/13: 20 each @ 6, 5, 2. AGAIN. 
+- 4/21: 20, 10 - each @ 4, 8, 6. DROP THIS WEIGHT OR ADD MORE SHOULDER WORK. DROP. 
+- 4/27: 15 each @ 8, 6, 5. AGAIN. 
+- 5/4: 15 each @ 8, 7, WHOOPS. 
+- 5/12: 15 each @ 8, 8, 4. AGAIN. 
+
+
+BARBELL CURL | 2-3 S | 6-10 R |:
+- 11/17: 5, 10 each @ 10, 9. AGAIN AT 7.5 EACH. MORE SETS.
+- 11/24: HB + 10 each @ 9, 7, 5. AGAIN. 
+- 12/3: HB + 10 each @ 10, 6, 6. AGAIN. 
+- 12/9: DID DUMBBELL CURLS. 
+- 12/22: HB + 10 each @ 8, 7, 5. AGAIN. 
+- 12/29: HB + 10 each @ 9, 5, 5, 5. AGAIN. 
+- 1/5: LB + 20 each @ 9, 4, 4. AGAIN. 
+- 1/12: LB + 15 each @ 10, 9, 6. AGAIN. 
+- 1/26: HB + 10 each @ 9, 5, 4. AGAIN. NEED MORE VOLUME HERE!!!
+- 2/2: LB + 15 each @ 10, 10, 8. AGAIN. 
+- 2/9: LB + 15 each @ 10, 8, 8. AGAIN. 
+- 2/16: HB + 5 each @ 10, 10, whoops. 
+- 2/23: LB + 15 each @ 10, 10, 8. AGAIN. 
+- 3/3: HB + 10 each @ 10, 8, 5. AGAIN. 
+- 3/9: HB + 10 each @ 10, 7, 5. AGAIN. 
+- 3/16: HB + 10 each @ 10, 8, 5. AGAIN. 
+- 3/24: HB + 10 each @ 10, 9, 5. AGAIN. 
+- 3/30: 60 @ 10, 7, 6. AGAIN. 
+- 4/6: 35 each @  24, 24, 14. AT HOTEL DID HAMMER CURLS. 
+- 4/13: 60 @ 7, 6, 5. AGAIN. 
+- 4/21: 60 @ 10, 9, 7. AGAIN. 
+- 4/27: 60 @ 10, 9, 6. AGAIN. 
+- 5/4: 60 @ 10, 7, 6. AGAIN. 
+- 5/12: 60 @ 10, 9, 6. AGAIN. 
+
+
+
+REVERSE CURL | 2-3 S | 6-10 R:
+- 2/2: LB + 10 each @ 10, 10, 10. BUMP. 
+- 2/9: LB + 15 each @ 7, 7, 6. AGAIN. 
+- 2/16: LB + 15 each @ 10, 7, whoops. 
+- 2/23: LB + 15 each @ 7, 7, 6. AGAIN. 
+- 3/3: LB + 15 each @ 12, 10, 8. BUMP. 
+- 3/9: LB + 20 each @ 10, 4, 4. AGAIN. 
+- 3/16: LB + 20, 10 - each @ 6, 10, 10. AGAIN. 
+- 3/24: HB @ 10, 10, 10. EASY. 
+- 3/30: 50 @ 12, 10, 10. BUMP. 
+- 4/13: 50 @ 10, 10, 8. AGAIN. 
+- 4/21: 50 @ 10, whoops. 
+- 4/27: 50 @ 10, 10, 10. BUMP.
+- 5/4: 50 @ 9, 6, 7. AGAIN. FOCUSING ON FORM. 
+- 5/12: 50 @ 8, 8, 6. AGAIN. 
+
+
+
+SKULL CRUSHERS | 2-3 S | 6-10 R |: 
+- 11/17: 10, 15 each @ 10, 10. BUMP MORE SETS.
+- 11/24: HB + 5 each @ 10, 10, 10. BUMP. 
+- 12/3: HB + 10 each @ 10, 10, 6. AGAIN. 
+- 12/9: DID DUMBBELLS. 
+- 12/22: HB + 10 each @ 10, 8, 0 hurt shoulder. CAREFUL WITH SHOULDER!!!!!!!!!
+- 12/19: HB + 10 @ 10, 10, 6. AGAIN. CLOSE GRIP. 
+- 1/5: LB + 20 each @ 10, 8, 4. AGAIN. 
+- 1/12: 40 @ 10, 10, 10, 8. DID TRI PULL DOWNS TODAY. 
+- 1/26: HB + 10 @ 10, 7, 4. DROPSETS NEED MORE VOLUME. AGAIN.  
+- 2/2: 40 @ 10, 10, 10. TRI ROPE PULLDOWNS THIS WAS EASY. BUMP. 
+- 2/9: 45 @ 10, 9, 7. AGAIN. 
+- 2/16: HB + 10 @ 10, 10, 6. AGAIN. 
+- 2/23: HB + 10 @ 10, 10, 7. AGAIN. 
+- 3/3: HB + 10 @ 10, 10, 6. AGAIN.  MAYBE INTRODUCE DRIP SETS? 
+- 3/9: HB + 10 @ 10, 10, 10. BUMP. 
+- 3/16: HB + 15 @ 6, 6, . MIGHT WANT TO BUMP 2.5 EACH INSTEAD OF 5. AGAIN. 
+- 3/24: 42.5, 52.5 - @ 12, 12, WHOOPS. 
+- 3/30: 70 @ 10, 9, 5. AGAIN. 
+- 4/6: 45 @ 12, 12, 12.  AT HOTEL DID PULLDOWNS. 
+- 4/13: 45 @ 12, 12, 12. 
+- 4/21: 45, 50 @ 12, 12, 12. DID V GRIP NEED TO LOCK IN ON THIS. 
+- 4/27: 45 @ 12, 12, 12, 8. AGAIN. 
+- 5/4: 70 @ 10, 7, 6. AGAIN. DID SKULL CRUSHERS. 
+- 5/12: 45 @ 12, 12, 12, 12. BUMP. DID PULL DOWNS. 
+
+
+DAY 2 LOWER POWER:
+
+GOBLET SQUATS | 3-4 S | 3-5 R |:
+ADJUST REPS AS NECESSARY FOR LIGHT WEIGHTS. 
+I THINK WE JUST ISOLATE TO AVLID PAIN OR START EVEN LIGHTER. 
+- 11/18: body weight @ 25, 25, 25, 25. BUMP REPS. 
+- 11/25: body weight @ 35, 35, 35, 35. BUMP REPS. MAYBE USE WEIGHT SOON? 
+- 12/4: body weight @ 40, 40, 40, 40. USE WEIGHT LOWER REPS. BUMP. 
+- 12/10: 25 pound DB @ 20, 20, 20, 20. BUMP. 
+- 12/23: smith machine 25 pounds each @ 10, 10, 10, 10. BUMP. IF BACK FEELS BAD DON’T BUMP. 
+- 12/30: smith machine 30 each @ 10, 10, 10, 10,  BUMP. BACK FELT A LITTLE OFF SO I DIDN’T BUMP SO IF BACK FEELS BAD DON’T BUMP. 
+- 1/6: smith machine 35 each @ 10, 10, 10, 10. BUMP. IF BACK FEELS BAD DONT BUMP. 
+- 1/13: HB + 30 each @ 10, 10, 10, 10. BUMP. 
+- ! SWITCHED TO BB SQUATS 4 S 3-5 R !
+- 1/28: HB + 45 each @ 5, 5, 5, 5. FELT FINE SEE HOW BACK FEELS IN COMING DAYS. BUMP. 
+- 2/3: HB + 50 each @ 5, 5, 5, 5. NO BACK PAIN FELT GOOD SEE HOW WE FEEL LATER. BUMP. 
+- 2/11: HB + 55 each @ 5, 5, 5, 5. WATCH THE KNEES DIPPING AND NUMP IF BACK FEELS GOOD. BUMP. 
+- 2/17: HB + 60 each @ 5, 5, 5, 5. BACK FELT A LITTLE TIGHT MAY BE DUE TO RE INTRODUCING BARBELL ROWS IF BACK IS IN PAIN DONT BUMP. BUMP. 
+- 2/25: HB + 60 each @ 5, 5, 5, 5. BACK WQS A STILL A LITTLE TIGHT BUMP IF OK. BUMP. 
+- 3/4: HB + 65 @ 5, 5, 4, 4. PROBABLY HAD ONE MORE IN THE TANK LAST SET. AGAIN. 
+- 3/10: HB + 65 @ 5, 5, 5, 5. BUMP. ONLY BUMP IF BACK IS OK. 
+- 3/17: HB + 70 @ 5, 5, 5, 4. PROLLY HAD ONE MORE WITH MEH FORM LAST SET. AGAIN. 
+- 3/5: LEG PRESS 240, 280  @ 12, 12, 12, 12 . WAS AT MOMS HOUSE. AGAIN. 
+- 3/31: HB + 70 @ 5, 5, 5, 5. BUMP BY 2.5 ONLY. BUMP. 
+- 4/14: HB + 70 @ 5, 5, 5, 4. BACK ONLINE AFTER A WEEK OFF. AGAIN. 
+- 4/23: HB + 70 @ 5, 5, 5, 5. LAST REP WASNT GREAT ON FORM ONLY BUMP BY 2.5. BUMP. 
+- 4/28: HB + 72.5 @ 5, 5, 4, 3. WATCH THE FORM WAS TIRED TODAY. AGAIN. 
+- 5/5: HB + 72.5 @ 5, 5, 5, 5. LOWKEY EASY. BUMP. 
+- 5/13: HB + 75 @ 5, 5, 4, 3. AGAIN. 
+
+
+HIP THRUSTS | 3-4 S | 3-5 R |:
+- 11/18: LB + 35 @ 5, 5, 5, 5. EASY BUT AGAIN GO SLOW WITH BACK. 
+- 11/20: LB + 35 @ 5, 5, 5, 5. BUMP. 
+- 12/4: LB + 40 @ 5, 5, 5, 5. BUMP.
+- 12/10: DB 55, 75 @ 10, 10, 10, 
+- 12/23: machine + 55 @ 5, 5, 5, 5. BUMP.  IF BACK HURTS DONT BUMP. 
+- 12/30: machine + 55 @ 5, 5, 5, 5. BUMP. BACK FELT A LITTLE OFF SO I DIDN’T BUMP SO IF BACK FEELS BAD DON’T BUMP. 
+- 1/6: machine + 60 @ 5, 5, 5, 5. BUMP. 
+- 1/13: machine + 70 @ 5, 5, 5, 5. BUMP. 
+- 1/28: machine + 75 @ 5, 5, 5, 5. SEE HOW BACK FEELS. BUMP. 
+- 2/3: machine + 80 @ 5, 5, 5, 5. FELT GOOD SEE HOW BACK FEELS. BUMP. 
+- 2/11: machine + 85 @ 5, 5, 5, 5. FELT GOOD IF BACK IS GOOD BUMP. 
+- 2/17: machine + 90 @ 5, 5, 5, 5. IF BACK FEELS GOOD BUMP. BUMP. 
+- 2/25: machine + 90 @ 5, 5, 5, 5. IF BACK IS CHILLIN BUMP. BUNP. 
+- 3/4: machine + 95 @ 5, 5, 5, 5. FELT GOOD. BUMP. 
+- 3/10: machine + 100 @ 5, 5, 5, 5. BUMP. 
+- 3/17: machine + 105 @ 5, 5, 5, 5. BUMP. EASY. 
+- 3/25: SKIPPED AT MOMS HOUSE. AGAIN. 
+- 3/31: machine + 110 @ 5, 5, 5, 5. BUMP. 
+- 4/16: machine + 115 @ 5, 5, 5, 5. BUMP.
+- SWITCHING THIS TO DEADLIFTS 
+- 4/23: HB + 45 each @ 5, 5, 5, 5. EASY ASF. BUMP.  
+- 4/28: HB + 55 each @ 5, 5, 5, 5. NOT BAD BUMP BY FIVE. BUMP. 
+- 5/5: HB + 60 each @ 5, 5, 5, 5. NEED TO WARM UP AND LOCK IN THE BREATHING. BUMP. 
+- 5/13: HB + 65 each @ 5, 5, 5, 5. BUMP. 
+
+
+BULG. SPLIT SQUATS | 3-5 S | 10-15 R |:
+LOWER SETS OR TRY THE SMITH MACH. 
+- 11/18: 15 each @ 15, 15, 15, 9. AGAIN. MORE SETS.
+- 11/25: 15 each @ 15, 15, 15, 11, 11. AGAIN. CHECK FORM THESE ARE SO HARD. 
+- 12/4: 15 each @ 15, 15, 15. BRING THE FRONT FOOT CLOSER. 
+- 12/10: Miranda’s leg press 145, 175, 190,  235, @ 15, 15, 15, 15, 15. STUPID. 
+- 12/23: 15 each @ 15, 15, 15, 15, 15. AGAIN. 
+- 12/30: 15 each @ 15, 15, 15, 15, 15. AGAIN. FUCKING TOUGH. 
+- 1/6: 15 each @ 15, 15, 15, 15, 15. AGAIN. FUCK THIS SHIT. 
+- 1/13: 20 each @ 15, 15, 12, 10 (awful), 10. AGAIN. 
+- 1/28: 20 each @ 15, 15, 10, 10, 10. FUCKING HATE THESE WITH A PASSION. AGAIN. 
+- 2/3: 20 each @ 15, 15, 10, 10, 10. AGAIN. 
+- 2/11: 20 each @ 15, 15, 12, 10, 10. AGAIN. 
+- 2/17: 25 each @ 15, 15, 13, 11, 11. AGAIN. 
+- 2/25: 25 each @ 15, 15, 15 barely, 11, 11. AGAIN. 
+- TRANSITIONING TO LEG PRESS
+- 3/4: 45, 70, - @ 15, 15, 15, 15, 15. NEED TO GET STANCE RIGHT (WIDE/NARROW). DO 80. 
+- 3/10: 90 each @ 15, 15, 15, 15, 15. BUMP. 
+- 3/17: 95 each @ 15, 15, 15, 15, 15. BUMP. MAYBE STANCE FOR MORE QUADS? 
+- 3/25: 140, 170 @ 12, 12, 12, 12. WAS AT MOMS DID EXTENSIONS. AGAIN. 
+- 3/31: 100 each @ 15, 15, 15, 15, 15. BUMP. 
+- 4/14: 110 each @ 15, 15, 15, 13. AGAIN. 
+- THINK ABOUT DOING THESE SINGLE LEGS.  
+- 4/23: 110 each @ 15, 15, 15, 15. BUMP. TOUGH CAREFUL WITH BACK HERE. 
+- 4/28: 115 each @ 15, 15, 10, 10. TWEAKING MY BACK A LITTLE. AGAIN. 
+- 5/5: 115 each @ 15, 15, 15, 15. BUMP. STILL TIGHT ON MY BACK A BIT. 
+- 5/13: 120 @ 15, 12, 11, 9. AGAIN. BACK FELT GOOD. 
+ 
+
+LEG CURLS | 3-4 S | 6-10 R |:
+SINGLE LEG
+- 11/18: 30 each leg @ 10, 10, 10. AGAIN FOR ALL SETS. MORE SETS.
+- 11/25 30 each leg @ 10, 10, 10, 10. AGAIN. HARD. 
+- 12/4: 30 each leg @ 10, 10, 10, 10. BUMP. 
+- 12/10: Miranda’s machine 140 both legs @ 12, 12, 12, 11. 
+- 12/23: 80 together @ 10, 10, 10, 10. AGAIN. 
+- 12/30: 80 together @ 10, 10, 10, 10. BUMP.
+- 1/6: 85 together @ 10, 10, 10, 10. BUMP. 
+- 1/13: 90 together @ 10, 10, 10, 10. BUMP. 
+- 1/28: 90 together @ 10, 10, 10, none. MACHINE WAS CAUSING DISCOMFORT UNRELATED TO INJURY. AGAIN. 
+- 2/3: 90 together @ 10, 10, 10, 10. BUMP. 
+- 2/11: 100 together @ 10, 10, 10, 7. AGAIN. 
+- 2/17: 100 together @ 10, 10, 10, 6. BOOOO. AGAIN. 
+- 2/25: 100 together @ 10, 10, 10, 7. SO BACK LMAO. AGAIN. 
+- 3/4: 100 together @ 10, 10, 10, 10. BUMP. THIS MACHINE SUCKS. 
+- 3/10: 110 together @ 10, 10, 10, 5. AGAIN. WATCH YOUR BACK. 
+- 3/17: 110 together @ 10, 10, 10, 6. AGAIN. 
+- 3/25: 90 @ 12, 12, 12, 12. AT MOMS HOUSE. AGAIN. 
+- 3/31: 110 together @ 10, 10, 10, 7. AGAIN. 
+- 4/14: 110 together @ 10, 10, 5, 7. AGAIN.
+- 4/23: 110 together @ 10, 10, 10, 6. AGAIN.  
+- 4/28: 110 together @ 10, 10, 10, 10. DID IT BUT THIS MACHINE IS DOG SHIT. BUMP. 
+- 5/6: 120 together @ 10, 10, 5. STOPPING THIS MACHINE ITS HURTING MY HACK. 
+- TRY NORDIC CURLS INSTEAD OF THIS BUM ASS MACHINE. DIDNT LIKE THEM. 
+- 5/13: LB + 35 @ 10, 10, 10, 10. DID RDLS. BUMP. 
+
+
+CALVES | 4 S | 6-10 R |:
+- 11/18: 35 each hand @ 40, 40, 40, 35. AGAIN. 
+- 11/25: 35 each hand @ 40, 40, 40, 40. AGAIN. 
+- 12/4: 35 each hand @ 40, 40, whoops. 
+- 12/10: Miranda’s leg press 190 @ 30, 30, 30, 30. 
+- 12/23: 40 each hand @ 40, 40, 40, 40. AGAIN. 
+- 12/30: 45 each hand @ 40, 40, 30, 30. AGAIN. DO 45 AGAIN. 
+- 1/6: 45 each hand @ 40, 31, 30, 30. AGAIN. 
+- 1/13: 45 each hand @ 40, 40, 40, 25. AGAIN. FOCUS ON GRIP!!!! 
+- 1/28: 45 each hand @ 40, 40, 30, 25. AWFUL. AGAIN. 
+- 2/3: 45 each hand @ 40, 40, 40, 30. AGAIN. 
+- 2/11: 45 each hand @ 40, 40, 40, 30. AGAIN. 
+- 2/17: 45 each hand @ 40, 40, 40, 30. AGAIN. 
+- 2/25: 50 each hand @ 40, 40, 40, 25. AGAAIN. 
+- 3/4: 50 each hand @ 40, 40, 40, 30. AGAIN. 
+- 3/10: 50 each hand @ 40, 40, 40, 30. FOREARM WAS HURTIN. AGAIN. 
+- 3/17: 22.5 KG each hand @ 40, 40, 40, 30. AGAIN. 
+- 3/25: LEG PRESS 180 @ 30, 30, 25, 25. AT MOMS HOUSE. AGAIN. 
+- 3/31: 50 each hand @ 40, 40, 30, 30. AGAIN. 
+- 4/13: 50 each hand @ 40, 40, 40, 32. AGAIN. 
+- 4/23: 50 each hand @ 40, 40, 40, whoops. 
+- 4/28: 50 each hand @ 40, 40, 30, 30. AGAIN. 
+- 5/5: 50 each hand @ 40, 40, 35, 30. AGAIN. 
+- 5/13: 50 each hand @ 40, 40, 38, 30. AGAIN. 
+
+
+DAY 3 UPPER HYPERTROPHY
+
+INCLINE BB PRESS | 3-4 S | 8-12 R |:
+30 DEG ANGLE. TUCK ELBOWS. 
+- 11/20: HB + 25 @ 10, 8, 8. AGAIN. MORE SETS.
+- 1/2: HB + 25 @ 12, 12, 8, 8. AGAIN. NICE. 
+- 1/8: HB + 25 @ 12, 12, 9, 7. AGAIN. 
+- 1/15: HB + 25 @ 12, 12, 11, 8. NICE. AGAIN. 
+- 1/29: HB + 25 @ 12, 12, 12, 9. NICE. AGAIN. 
+- 2/5: HB + 25 @ 12, 12, 12, 12. NICEEE. BUMP. 
+- 2/12: HB + 27.5 @ 12, 12, 8, 7. AGAIN. 
+- 2/18: HB + 27.5 @ 12, 12, 10, 8. AGAIN. 
+- 2/26: HB + 27.5 @ 12, 12, 11, 8. COULD BE BETTER. AGAIN. 
+- 3/5: HB + 27.5 @ 12, 12, 12, 9. GOOD. AGAIN. 
+- 3/12: HB + 27.5 @ 12, 12, 12, 12. BUMP. 
+- 3/18: HB + 30 @ 12, 11, 8, 8. AGAIN. 
+- 3/26: 45 DB EACH @ 12, 12, 9, 7. AT MOMS HOUSE. AGAIN. 
+- 4/2: HB + 30 @ 12, 12, 8, 8. AGAIN. 
+- 4/17: HB + 30 @ 12, 12, 10, 8. AGAIN. 
+- 4/24: HB+ 30 @ 12, 12, 11, 8. AGAIN. 
+- 4/30: HB + 30 @ 12, 12, 8, 11. FORM FEELS OFF FOR THIS BARELY FEEL IT IN MY CHEST. LOWER THE ANGLE TO 15. AGAIN. 
+- 5/7: HB + 30 @ 12, 12, 12, 10. DIDNT FINISH BUT PRETTY EASY I THINK WE CAN BUMP. BUMP. 
+- 5/14: HB + 32.5 @ 12, 12, 12, 8. AGAIN. WODE GRIP MIDDLE FINGER. 
+
+
+FLAT BENCH DB FLY | 3-4 S | 8-12 R |:
+- 11/20: 25 each @ 12, 8, 8. WITH DROP SETS. AGAIN. MORE SETS.
+- 1/2: 25 each @ 12, 12, 8, 8. AGAIN. 
+- 1/8: 25 each @ 12, 12, 11, 8. AGAIN. 
+- 1/15: 25 each @ 12, 12, 10, 8. AGAIN. 
+- 1/29: 20 each @ 12, 12, 12, 12. EASY THERE WERE NO 25. BUMP. 
+- 2/5: 25 each @ 12, 12, 12, 8. NICE. AGAIN. 
+- 2/12: 25 each @ 12, 12, 12, 12. BUMP. 
+- 2/18: 30 each @ 12, 7, 5, 5. AGAIN. THIS IS ACTUALLY HARD NOW 
+- 2/26: 30 each @ 9, 8, 6, 5. ROUGH… I THINK LAST TIME WE DIDN’T DO IT RIGHT AFTER BENCH. AGAIN. 
+- 3/5: 30 each @ 10, 8, 7, 6. AGAIN. 
+- 3/12: 30 each @ 12, 7, 7, 6. AGAIN. 
+- 3/18: 30 each @ 12, 10, 9, 5. AGAIN. 
+- 3/26: 30 each @ 9, 8, 8, 8. WELL THIS WAS ROUGH. AGAIN. 
+- 4/2: 30 each @ 12, 11, 6, 7.  AGAIN. 
+- 4/17: 30 each @ 8, 7, 5, 4. AGAIN. 
+- CHANGED TO INLCINE CABLE FLYS
+- 4/24: 20 each @ 12, 12, 10, 9. REMEBER THE ELBOW SCOOP FORM. AGAIN. 
+- 4/30: 10 @ 12, 12, 12, 12. AGAIN. FOCUS IN FORM AND THE INCENTRIC. 
+- 5/7: 10 @ 12, 12, 12, 12. BUMP MIGHT BE TOO MUCH BUT TRY. BUMP. 
+- 5/14: 15 @ 12, 12, 11, 9. AGAIN. 
+
+
+CABLE ROW | 3-4 S | 8-12 R |:
+- 11/20: 30 each @ 12, 12, 12. AGAIN. MORE SETS.
+- 1/2: 60, 70 @ 12, 12, 12, 12. BUMP. 
+- 1/8: 80 @ 12, 12, 11, 10. AGAIN. 
+- 1/15: 80 @ 12, 12, 12, 12. BUMP. 
+- 1/29: 80, 90 @ 12, 12, 12, 12. AGAIN. DO 90 FOR ALL. 
+- 2/5: 90 @ 12, 12, 12, 12. EASY. BUMP. 
+- 2/12: 100 @ 12, 12, 11, 7. AGAIN. 
+- 2/18: 100 @ 12, 12, 12, 8. AGAIN. 
+- 2/26: 100 @ 12, 12, 12, 10. AGAIN. 
+- 3/5: 100 @ 12, 10, 9, 9. SHEESH ROUGH I DID THIS AFTER ROWS AND I MIGHT BE FATIGUED. AGAIN. 
+- 3/12: 100 @ 12, 12, 12, 12. BUMP. 
+- 3/18: 100, 110 - @ 12, 12, 10, 8. AGAIN.
+- 3/26: AT MOMS HOUSE SKIPPED. 
+- 4/2: 110 @ 12, 12, 11, 8. AGAIN.  
+- 4/17: 110 @ 12, 12, 12, 8. AGAIN. 
+- 4/24: 110 @ 12, 12, 12, 9. AGAIN. 
+- 4/30: 110 @ 12, 12, 12, 10. AGAIN. 
+- 5/7: 110 @ 12, 12, 12, 12. BUMP. 
+- 5/14: 120 @ 12, 12, 12, 7. AGAIN.
+
+
+ONE ARM DB ROWS | 3-4 S | 8-12 R |:
+- 11/20: 45 each @ 12, 12, 12. AGAIN + 1 set. MORE SETS.
+- 1/2: 50 each @ 12, 12, 12, 9. AGAIN. DID BEFORE ROWS. 
+- 1/8: 50 each @ 12, 12, 12, 10. AGAIN. DID BEFORE ROWS. 
+- 1/15: 50 each @ 12, 12, 12, 11. AGAIN. 
+- 1/29: 50 each @ 12, 12, 10, 8. AGAIN. BUMPED ROWS AND DID THIS SECOND ALSO STOP USING MOMENTUM.  
+- 2/5: 50 each @ 12, 12, 12, 9. AGAIN. 
+- 2/12: 50 each @ 12, 12, 12, 11. AGAIN. 
+- 2/18: 50 each @ 12, 12, 12, 12. LEFT ARM WAS SLACKING ON LAST SET. BUMP. 
+- 2/6: 55 each @ 12, 12, 12, 9. AGAIN. 
+        CHILL ON THE MOMENTUM BRUH
+- 3/5: 55 each @ 12, 12, 12, 12. BUMP. 
+- 3/12: 60 each @ 10, 9, 8, 7. AGAIN. 
+- 3/18: 60 each @ 12, 11, 8, 8. AGAIN. 
+- 3/26: 60 each @ 12, 12, 12, 12. DID BEFORE ROWS. AGAIN. 
+- 4/2: 60 each @ 12, 12, 8, 8. AGAIN. 
+- 4/16: 60 each @ 12, 12, 9, 8. AGAIN. FOCUS ON FORM. 
+- 4/24: 60 each @ 12, 12, 12, 9. NICE. AGAIN. 
+- 4/30: 60 each @ 12, 12, 12, 12. DID IT BIT FUCK MAN. BUMP. 
+- 5/7: 65 each @ 10, 8, 8, 8. AGAIN. 
+- 5/14: 65 each @ 12, 9, 8, 8. AGAIN. PROLLY COULD HAVE PUSHED HARDER TBH. 
+
+
+
+DB LATERAL RAISE | 3-4 S | 8-12 R |:
+- 11/20: 20 each @ 9, 6, 4. WITH DROP SETS. AGAIN. MORE SETS.
+- 1/2: 20 each @ 12, 10, 7, 9. AGAIN. 
+- 1/15: 20 each @ 12, 10, 10, 7. AGAIN. DONT USE MOMENTUM. 
+- 1/29: 20 each @ 11, 8, 8, 7. AGAIN. DID T USE MOMENTUM THIS TIME LOL. 
+- 2/5: 20 each @ 12, 10, 10, 8. AGAIN. 
+- 2/12: 20 each @ 12, 12, 8, 10. AGAIN. 
+- 2/18: 20 each @ 12, 12, 10, 9. AGAIN. 
+- 2/26: 20 each @ 12, 12, 11, 10. AGAIN. 
+- 3/5: 20 each @ 12, 12, 12, 12. AGAIN. 
+- 3/12: 20 each @ 12, 12, 12, 12. BUMP. 
+- 3/18: 25 each @ 12, 9, 7, 7. AGAIN. 
+- 4/2: 10 kg each @ 12, 10, 12, 8. AGAIN. 
+- 4/17: 25 each @ 9, 9, 9, 5. AGAIN. THIS WAS ROUGH FIRST SETS AFTER A WEEK OFF. 
+- 4/24: 25 each @ 12, 12, 10, 8. AGAIN. 
+- 4/30: 25 each @ 12, 11, 9, 7. AGAIN. 
+- 5/7: 25 each @ 12, 12, 9, 8. AGAIN. 
+- 5/14: 25 each @ 12, 12, 8, 7. AGAIN. 
+
+
+SEATED INCLINE DB CURL | 3-4 S | 8-12 R |:
+- 11/20: 20 each @ 12, 6, 5. WITH DROP SEPTS. AGAIN. MORE SETS.
+- 1/2: 20 each @ 12, 8, 6, 5. AGAIN. 
+- 1/8: 20 each @ 11, 6, 5,  5. AGAIN. WITH DROP SETS. 
+- 1/15: 20 each @ 9, 8, 7, 6. AGAIN. 
+- 1/29: 20 each @ 12, 7, 5, WHOOPS. ALL WITH DROPSETS. AGAIN. 
+- 2/5: 20 each @ 12, 9, 7, 5. WITH DROPSETS. AGAIN. 
+- 2/12: 20 each @ 12, 12, 8, 6. AGAIN. 
+- 2/18: 20 each @ 12, 12, 7, 6. FUCKER IF REGRESSING AGAIN RE INTRODUCE DROP SETS. AGAIN. 
+- 2/26: 20 each @ 12, 10, 7, 5. DID WITH DROP SETS SEE IF RHAT FIXES THE ISSUE. AGAIN. 
+- 3/5: 20 each @ 12, 12, 9, 8. WITH DROPSETS. AGAIN. 
+- 3/12: 20 each @ 12, 12, 10 8  I DONT REMEMBER IF IT WAS 8 or 7 ON LAST SET. AGAIN. 
+- 3/18: 20 each @ 12, 12, 12, 8. AGAIN. 
+- 3/25: 20 each @ 12, 12, 7, . AT MOMS HOUSE IDK WHY IM REGRESSING. AGAIN. 
+- 4/2: 20 each @ 12, 12, 9, 8. AGAIN. 
+- 4/17: 20 each @ 12, 12, 8, 7. AGAIN. 
+- 4/24: 20 each @ 12, 12, 9, 8. AGAIN. NICE. 
+- 4/30: 20 each @ 12, 12, 9, 7. FUCKKKER. INCREASE THE ANGLE. AGAIN. 
+- 5/7: 20 each @ 12, 12, 12, 8. AGAIN. 
+- 5/14: 20 each @ 12, 12, 12, 10. AGAIN. 
+
+
+
+REVERSE CURL | 3-4 S | 8-12 R:
+- 2/5: HB @ 12, 11, 9, 6. AGAIN. 
+- 2/12: HB @ 12, 11, 8, 7. AGAIN. 
+- 2/18: HB @ 12, 10, 9, 7. AGAIN. 
+- 2/26: HB @ 12, 12, 12, 11. AGAIN. 
+- 3/5: HB @ 12, 12, 12, 12. BUMP. 
+- 3/12: HB + 5 @ 11, 8, 6, 7. KINDA HEAVY. AGAIN. 
+- 3/18: HB + 5 @ 10, 7, 6, 7. THINK ABOUT DROPPING IF WE DINT IMPROVE ITS HEAVY. AGAIN. 
+- 4/2: 50 @ 10, 6, 6. AGAIN. 
+- 4/17: 50 @ 12, 8, 8. AGAIN. 
+- 4/24: 45 @ 10, 10, 10. 50 WAS NOT AVAILABLE. AGAIN. 
+- 4/30: 50 @ 10, 10, 10. BUMP. 
+- 5/7: 60, 50 @ 4, 7, 6. AGAIN. 
+- 5/14: 50 @ 7, 6, 8. AGAIN. 
+
+
+CABLE TRICEP EXT. | 3-4 S | 8-12 R |:
+- 11/20: 52.5 @ 12, 7, 6. WITH DROP SETS. AGAIN. MORE SETS.
+- 1/2: 45 @ 12, 9, 6, 6. AGAIN. 
+- 1/8: 45 @ 12, 12, 12, 6. AGAIN. 
+- 1/15: 45 @ 12, 12, 12, 12. BUMP. USED THE V GRIP. 
+- 1/29: 45 @ 12, 8, 5, 5. DID WITH DROP SETS FINALLY WE HAVE A ROPE NEED TO DROP WEIGHT. DROP. 
+- 2/5: 30 @ 12, 12, 8, 7. DID THE LONG ROPE WAS HARDER. AGAIN. 
+- 2/12: 45 @ 12, 11, 7, 8. AGAIN. 
+- 2/18: 45 @ 12, 12, 8, 7.  AGAIN. 
+- 2/26: 45 @ 12, 12, 9, 8. AGAIN. 
+- 3/5: 45 @ 12, 12, 9, 9. AGAIN. 
+- 3/12: 45 @ 12, 12, 12, 12. AGAIN. USED A V GRIP. 
+- 3/18: 45 @ 12, 12, 12, 9. AGAIN. USED ROPE. 
+- 3/26: 47.5 @ 12, 12, 12, 11. AGAIN. 
+- 4/2: 45 @ 12, 12, 8, 9. FUCKER. AGAIN. 
+- 4/17: 45 @ 12, 12, 12, 8. AGAIN. 
+- 4/24: 45 @ 12, 12, 12, 10. AGAIN. 
+- 4/30: 45 @ 12, 12, 12, 9. AGAIN. 
+- 5/7: 45 @ 12, 12, 12, 12. BUMP. 
+- 5/14: 50 @ 12, 12, 7, 9. AGAIN. 
+
+
+
+DAY 4 LOWER HYPERTROPHY 
+
+BARBELL SQUATS  | 3-4 S | 8-12 R |:
+- 1/11: HB + 25 each @ 10, 10, 10, 10. BUMP. FELT GOOD IF BACK DOESN’T HURT LATER BUMP. 
+- 2/6: HB + 30 @ 12, 12, 12, 12. BUMP. 
+- 2/13: HB + 35 @ 12, 12, 12, 12. BUMP. TIGHTEN UP THE FORM. 
+- 2/20: HB + 40 @ 12, 12, 12, 9. PROB COULD HAVE FINISHED WASN’T FEELING THE BEST FORM WISE THOUGH. AGAIN. 
+- 2/27: HB + 40 @ 12, 12, 12, 12. TOUGH BUT BACK FELT GOOD ESPECIALLY WITH A WISER THAN AVG STANCE BUNP IF BACK IS OK. 
+- 3/6: HB + 45 @ 12, 12, 9, 8. DONT FORCE REPS IF FORM WILL BE BAD. AGAIN. 
+- 3/13: HB + 45 @ 12, 12, 11, 9. WAS TIRED TODAY FUCK. AGAIN. 
+- 3/20: HB + 45 @ 12, 12, 12, 12. BUMP. 
+- 4/3: HB + 50 @ 12, 12, 9, 8. AGAIN. 
+- 5/1: HB + 50 @ 12, 10, 9, 8. AGAIN. 
+- 5/15: HB + 50 @ 12, 12, 9, 8. AGAIN. 
+
+
+DB LUNGES | 3-4 S | 16-24 R TOTAL |:
+- 11/21: 25 each @ 24, 22, 20. AGAIN. MORE SETS. 
+- 11/26: 25 each @ 24, 24, 24, 24. BUMP. 
+- 1/10: 25 each @ 24, 24, 24, 20. AGAIN. WAS SUPPOSED TO BUMP BUT MY BACK GOT TWEAKED LAST WEEK FROM THIS. ALSO THIS WAS HARD. 
+- 2/6: 25 each @ 24, 20, 20, 20. FIRST EXERCISE WAS ACTUALLY HARDISH. AGAIN. 
+- 2/13: 25 each @ 24, 24, 20, 20. AGAIN. 
+- 2/20: 25 each @ 24, 24, 24, 24. BUMP. FUCK. 
+- 2/27: 30 each @ 24, 24, 22, 20. AGAIN. 
+- 3/6: 12.5 KG, 30 - each @ 24, 24, 24, 24. AGAIN. 
+- 3/13: 30 each @ 24, 24, 24, 24. DID IT BUT WAS HARD GIVE IT ONE MORE GOOD ONE WITH GOOD FORM. AGAIN. 
+- 3/20: 30 each @ 24, 24, 24, 24. DID IT IT WAS TOUGH BUT DID IT. BUMP. 
+- 4/3: 35 each @ 24, 20, 18, 16. AGAIN.
+- 5/1: 35 each @ 24, 20, 12. SKIPPED THIS SUCKED TODAY. AGAIN. 
+- 5/15: 35 each @ 24, 22, 12, 14. FUCK THESE ARE HARD. AGAIN. 
+
+
+LEG EXTENSIONS | 3-4 S | 10-15 R |:
+SINGLE LEG
+- 11/21: 80, 90, 90 @ 15, 12, 7. WITH DROP SETS. AGAIN. 
+- 12/26: 70 @ 13, 10, 10, 9. AGAIN. THIS MACHINE IS HARDER I FEEL. 
+- 1/11: 70 @ 15, 10, 10, 8. AGAIN. 
+- 2/6: 70 @ 15, 10, 8, 10. WHAT. AGAIN. 
+- 2/13: 70 @ 15, 12, 11, 10. AGAIN. 
+- 2/20: 70 @ 15, 10, 9, 9. ROUGH THIS TIME DID LOTS OF LUNGES THOUGH. AGAIN.
+- 2/27: 70 @ 15, 12, 11, 11. AGAIN. 
+- 3/6: 70 @ 15, 13, 11, 11. AGAIN. 
+- 3/13: 70 @ 15, 15, 12, 12. AGAIN. 
+- 3/20: 70 @ 15, 15, 12, 12. WAS KIDNA RUSHED WORKING IN WOTH SOMEONE. AGAIN. 
+- 4/3: 70 @ 15, 15, 15, 13. AGAIN. 
+- 5/1: 70 @ 15, 15, 15, 15. BUMP. 
+- 5/15: 80 @ 15, 15, 13, 12. AGAIN. 
+
+
+LEG CURL | 3-4 S | 10-15 R |:
+SINGLE LEG
+- 11/21: 25, 30, 30 each @ 15, 13, 10. DROP TO 25 FOR MORE REPS. 
+- 12/26: 70, 80 together @ 15, 12, 12, 11. AGAIN. DO 80. 
+- 1/11: 80 together @ 15, 11, 11, 11. AGAIN. 
+- 2/6: 80 together @ 15, 10, 11, 11. AGAIN. 
+- 2/13: 80 together @ 15, 15, 11, 11. AGAIN. 
+- 2/20: 80 together @ 15, 15, 12, 12. AGAIN. 
+- 2/27: 80 together @ 15, 15, 13, 12. AGAIN. 
+- 3/6: 80 together @ 15, 15, 15, 15. BUMP. 
+- 3/13: 90 together @ 15, 15, 15, 15. BUMP. 
+- 3/20: 100 together @ 15, 12, 9, 5. AGAIN. 
+- 4/3: 100 together @ 15, 15, 9, 9. AGAIN. 
+- 5/1: 100 together @ 15, 9. FEELING WOOSY. SKIPPING HERE. 
+- SWITCHED TO RDLS 
+- 5/15: LB + 35 @ 10, 10, 10, 10. BUMP. 
+
+
+CALF RAISES | 3-4 S | 8-12 R |
+- 11/21: SM + 50 each @ 12, 12, 12, 12. BUMP. 
+- 12/26: DB 40 each @ 40, 40, 40, 40. AGAIN. 
+- 1/11: DB 45 each @ 40, 40, 30, 30. AGAIN. FOCUS ON GRIP!!!! 
+- 2/6: DB 45 each @ 40, 40, 40, 30. AGAIN. 
+- 2/13: DB 45 each @ 40, 40, 40, 40. BUMP. 
+- 2/20: DB 50 each @ 40, 40, 30, 30. AGAIN. 
+- 2/27: DB 50 each @ 40, 35, 30, 25. AGAIN. 
+- 3/6: DB 50 each @ 40, 40, 35, 40. AGAIN. RESTED LONGER LAST SET WHOOPS. 
+- 3/13: DB 55 each @ 40, 25, 25, 25. AGAIN. 
+- 3/20: DB 50 each @ 40, 40, 38, 30. AGAIN. 
+- 4/3: DB 50 each @ 40, 40, 40, WHOOPS 
+- 5/1: DB 50 each @ 40, 40, 40, 40. BUMP. 
+- 5/15: DB 50 each @ 40, 40, 38, 35. AGAIN. 
+
