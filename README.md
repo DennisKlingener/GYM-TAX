@@ -28,6 +28,7 @@ Parsable syntax used to track gym routines with supporting features
 - imediatly afgter the exersice has been defined, the following format is expected:
     - Need to define the wiehgt list.... and the "-" charactrer in it.
     - "- Date: weight used (each key word if needed) @ (number of reps completed per set for N sets comma seperated). AGAIN or BUMP keyword and any notes always ended with a period.
+    - THE AGAIN/BUMP SHOULD NOT BE A KEYWORD SHOULD SIMPLY BE A NOTE....
 
 
 

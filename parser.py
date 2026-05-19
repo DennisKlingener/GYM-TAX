@@ -5,7 +5,7 @@ import logging
 import argparse
 from pathlib import Path
 import re
-
+import sys
 
 
 class Parser:
@@ -32,18 +32,28 @@ class Parser:
         with open(self.dataFilePath, "r") as file:
 
             # We will need to skip the header section first by finding the header ende string.
-            self.process_header(file)
+            self._process_header(file)
 
             # Search for constatns and process them.
-            self.process_constants(file)
+            self._process_constants(file)
             
 
             # Process the execises now.
-            for line in file:
+            while True:
+
+                # Read the line
+                line = file.readline()
+
+                # we have reached the end.
+                if line == "":
+                    return
+
+                if self._is_comment(line):
+                    continue
             
+                # process exercise.
                 if "#" in line:
-                    # process exercise.
-                    
+                    self._process_exercise(file, line)
 
                     
 
@@ -55,7 +65,6 @@ class Parser:
             
             
             
-            pass
              
 
 
@@ -63,35 +72,52 @@ class Parser:
         
         
         
-        pass
 
 
 
-    def process_header(self, filePointer):
-        for line in filePointer:
+    def _process_header(self, filePointer):
+        while True:
+            # Read the next line
+            line = filePointer.readline()
+
             if not re.search("======*", line):
                 continue
             else:
                 return
 
-
-    def process_constants(self, filePointer):
+    
+    # Need better logic here to parse the constants....
+    def _process_constants(self, filePointer):
         if filePointer.readline() == "CONSTANTS":
-            for line in filePointer:
+            while True:
 
-                if line == "END CONSTANTS":
+                # Read the next line
+                line = filePointer.readline()
+
+                # save the current position
+                curPos = filePointer.tell()
+
+                if self._is_comment(line):
+                    continue
+
+                try:
+                    key, value = line.split("=")
+                    self.constants[key] = value
+                except Exception as _:
+                    filePointer.seek(curPos)
                     return
 
-                key, value = line.split("=")
-                self.constants[key] = value
 
-    def process_exercise(self, filePointer):
+    def _process_exercise(self, filePointer, exerciseData):
             
-            exerciseName, setRange, _ = filePointer.readline() 
+            exerciseName, setRange, *_ = exerciseData.split("|")
+            print(exerciseName)
+            print(setRange)
+            print(_)
 
             try:
                 minSet, maxSet = setRange.split("-")
-            except:
+            except Exception as _:
                 minSet, maxSet = setRange, setRange
 
             self.data[exerciseName] = {
@@ -100,19 +126,44 @@ class Parser:
                 "data": {}
             }
 
-            for line in filePointer:
+            
+            while True:
+                
+                # Read the next line
+                line = filePointer.readline()
+
+                if self._is_comment(line):
+                    continue
 
                 # Save the current position.
                 curPos = filePointer.tell()
 
+                # Check to see if we have processed all the logs for this execise.
                 if "-" not in line:
                     filePointer.seek(curPos)
                     return
                 
+                # Parse the current log line.
+                date, data = line.split(":")
+
+                weightInfo, data = data.split("@")
+
+                setInfo, notes = data.split(".", 1)
+
+                print(date)
+                print(weightInfo)
+                print(setInfo)
+                print(notes)
+                sys.exit()
                 
 
 
 
+    def _is_comment(self, line):
+        if "//" in line:
+            return True
+        else:
+            return False
 
 
 
@@ -138,11 +189,12 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
+    parser = Parser(args)
+    parser.parse()
+
     
     
     
     
-    
-    print("Sup")
 
 
