@@ -110,51 +110,63 @@ class Parser:
 
     def _process_exercise(self, filePointer, exerciseData):
             
-            exerciseName, setRange, *_ = exerciseData.split("|")
-            print(exerciseName)
-            print(setRange)
-            print(_)
+        exerciseName, setRange, *_ = exerciseData.split("|")
+        exerciseName = exerciseName.strip("# ")
 
-            try:
-                minSet, maxSet = setRange.split("-")
-            except Exception as _:
-                minSet, maxSet = setRange, setRange
+        try:
+            minSet, maxSet = setRange.split("-")
+        except Exception as _:
+            minSet, maxSet = setRange, setRange
 
-            self.data[exerciseName] = {
-                "minSet": minSet,
-                "maxSet": maxSet,
-                "data": {}
+
+        self.data[exerciseName] = {
+            "minSet": minSet.strip(),
+            "maxSet": maxSet.strip("S "),
+            "data": {}
+        }
+        
+        while True:
+            
+            # Read the next line
+            line = filePointer.readline()
+
+
+            if self._is_comment(line) or self._is_newline(line):
+                continue
+
+            # Save the current position.
+            curPos = filePointer.tell()
+
+            # Check to see if we have processed all the logs for this execise.
+            if "-" not in line:
+                filePointer.seek(curPos)
+                return
+            
+            # Parse the current log line.
+            date, data = line.split(":")
+
+            weightInfo, data = data.split("@")
+
+            setInfo, notes = data.split(".", 1)
+
+            date = date.strip("- ")
+            weightInfo = weightInfo.strip()
+            setInfo = setInfo.split(",")
+
+            for i in range(len(setInfo)):
+                setInfo[i] = setInfo[i].strip()
+
+            self.data[exerciseName]["data"] = {
+                "dataCompleted": date,
+                "totalWeight": weightInfo,
+                "sets": setInfo
             }
 
-            
-            while True:
-                
-                # Read the next line
-                line = filePointer.readline()
 
-                if self._is_comment(line):
-                    continue
 
-                # Save the current position.
-                curPos = filePointer.tell()
-
-                # Check to see if we have processed all the logs for this execise.
-                if "-" not in line:
-                    filePointer.seek(curPos)
-                    return
-                
-                # Parse the current log line.
-                date, data = line.split(":")
-
-                weightInfo, data = data.split("@")
-
-                setInfo, notes = data.split(".", 1)
-
-                print(date)
-                print(weightInfo)
-                print(setInfo)
-                print(notes)
-                sys.exit()
+            print(exerciseName)
+            print(self.data[exerciseName])
+            sys.exit()
                 
 
 
@@ -165,8 +177,11 @@ class Parser:
         else:
             return False
 
-
-
+    def _is_newline(self, line):
+        if line == "\n":
+            return True
+        else:
+            return False
 
 
 
