@@ -6,6 +6,9 @@ import argparse
 from pathlib import Path
 import re
 import sys
+import csv
+
+# Need to configure the logger to include all the messages. 
 
 
 class Parser:
@@ -44,9 +47,12 @@ class Parser:
                 # Read the line
                 line = file.readline()
 
+                print(f"here is line in main loop: {line}")
+
                 # we have reached the end.
                 if line == "":
-                    return
+                    self.log.info("EOF Reached")
+                    break
 
                 if self._is_comment(line):
                     continue
@@ -55,7 +61,35 @@ class Parser:
                 if "#" in line:
                     self._process_exercise(file, line)
 
-                    
+        print(self.data)
+
+        fieldNames = ["Exercise Name", "Date", "Total Weight", "Set Info", "Notes"]
+
+        # At this point we can graph the data we collected.
+        with open("output.csv", mode="w", newline="", encoding="utf-8") as outFile:
+            
+            writer = csv.DictWriter(outFile, fieldnames=fieldNames)
+
+            writer.writeheader()
+
+            for exercise, data in self.data.items():
+                currentRow = {}
+
+                currentRow["Exercise Name"] = self.data[exercise]
+
+                for date, info in data.items():
+                    print("here is info")
+                    print(data)
+                    currentRow["Date"] = date
+                    currentRow["Total Weight"] = info["totalWeight"]
+                    currentRow["Set Info"] = info["sets"]
+                    currentRow["Notes"] = info["notes"]
+
+                    writer.writerow(currentRow)
+
+
+    # Where I left off: Bro trying to get the data nto an csv in rows beofre graphinh it. havin some trouble with parsing
+    # the data dict. 
 
 
 
@@ -138,8 +172,9 @@ class Parser:
             curPos = filePointer.tell()
 
             # Check to see if we have processed all the logs for this execise.
-            if "-" not in line:
+            if "#" in line or line == "":
                 filePointer.seek(curPos)
+                print("Returning")
                 return
             
             # Parse the current log line.
@@ -156,17 +191,12 @@ class Parser:
             for i in range(len(setInfo)):
                 setInfo[i] = setInfo[i].strip()
 
-            self.data[exerciseName]["data"] = {
-                "dataCompleted": date,
+            self.data[exerciseName]["data"][date] = {   
                 "totalWeight": weightInfo,
-                "sets": setInfo
+                "sets": setInfo,
+                "notes": notes
             }
 
-
-
-            print(exerciseName)
-            print(self.data[exerciseName])
-            sys.exit()
                 
 
 

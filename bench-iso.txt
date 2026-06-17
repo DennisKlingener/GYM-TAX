@@ -1,0 +1,55 @@
+PHUL
+
+NOTES:
+- Should be run for 12 weeks. 
+- If an exercise aggravates our back, stop/replace.
+- Focus on recovery and hydration 
+- Supplement this routine with stretches/foam rolling/injury recovery 
+
+STARTING 1RMs (epley formula) 
+BENCH 165 x 2, 1 RM ~176 
+SHOULDER PRESS 105 x 2 1 RM ~112
+
+REMAINING WORKOUTS: 48
+
+
+Test 452 
+=================================
+
+CONSTANTS
+LB=25 
+HB=45
+SM=55 
+	
+
+
+
+// DAY 1 - UPPER POWER 
+
+# BARBELL BENCH PRESS | 3-4 S | 3-5 R |:
+
+// WIDE GRIP
+- 11/17: 45 each @ 5, 5, 5. AGAIN. MORE SETS.
+- 11/24: 45 each @ 5, 5, 5, 5. EASY. BUMP. 
+- 12/3: 47.5 each @ 5, 5, 5, 5. DID IT LAST REP WAS HARD. AGAIN. 
+- 12/9: Miranda’s gym machine 145, 160, 175 @ 6, 5, 5, 4, 2 + drop. This machine sucks do the previous weigh. AGAIN. 
+- 12/22: 50 each @ 5, 5, 4, 4. AGAIN. 
+- 12/29: 50 each @ 5, 5, 5, 4. AGAIN. 
+- 1/5: 50 each @ 5, 5, 5, 5. BUMP. LETS GOOOOOO SON. 
+- 1/12: 52.5 each @ 5, 5, 3, 3. AGAIN. 
+- 1/26: 52.5 each @ 5, 5, 5, 3. AGAIN. 
+- 2/2: 52.5 each @ 5, 5, 5, 4. AGAIN. 
+- 2/9: 52.5 each @ 5, 5, 5, 5. AHHHHHHHHHHHHHHH LETS FUCKING GO BITCH. BUMP. 
+- 2/16: 55 each @ 5, 5, 4, 3. AGAIN.
+- 2/23: 55 each @ 5, 5, 5, 5. BUMP. I DID 5 LAST SET BUT THE REP WAS HARDDD STILL BUMP. 
+- 3/3: 57.5 @ 5, 4, 3, 3. AGAIN. 
+- 3/9: 57.5 @ 5, 4, 2, 3. AGAIN. IDK MAYBE I WAS TIRED DIDNT GET GREAT SLEEP AND WAS OUT LATE THINK ABOUT WORKING IN A DELOAD IF WE REGRESS. 
+- 3/16: 57.5 @ 5, 5, 4, 2. NICE KEEP IT UP. AGAIN. 
+- 3/24: 50 DB @ 10, 10, 10, 8. WAS AT MOMS THIS WEEK GO BACK TO NORMAL ALSO 50S WERE THE HEAVIEST. AGAIN. 
+- 3/30: 57.5 @ 5, 5, 4, 3. WIERD THE PLUS REP WAS THE LAST ONE NOCE THOUGH. AGAIN. 
+- 4/6: 50 each @ 10, 10, 10, 9. AT THE HOTEL. AGAIN. 
+- 4/3: 57.5 each @ 5, 3, 3, 2. FORST DAY BACK AFTER A WEEK OF SLACKING ALSO I FEEL BEHIND ON SLEEP BACK TO THE GRIND. AGAIN. 
+- 4/21: 57.5 each @ 5, 4, 3, 2. TOUGH. AGAIN. 
+- 4/27: 57.5 each @ 5, 4, 3, 3. LAST REP WAS BARELY THERE FUCKING ANNOYING. AGAIN. 
+- 5/4: 57.5 each @ 5, 5, 3, 2. FUCKER FUCK FUCK FUCK. IF IM PLATUEING WE NEED TO THINK ABOUT SWITCHING IT UP! AGAIN. 
+- 5/12: 57.5 each @ 5, 3, 3, 2. AGAIN. NEED TO LOCK IN AGAIN AND IF THAT DOESN’T WORK CHANGE THE ROUTINE. 
